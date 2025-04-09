@@ -1,0 +1,8 @@
+// main/my_first_file
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Sum: " << a + b << endl;
+    return 0;
+}
